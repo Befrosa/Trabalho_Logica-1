@@ -1,7 +1,7 @@
 <h1 align="center">Trabalho de lógica de programação</h1>
-<h2>
+<h2
 Trabalho de logica da programação, realizado durante a residencia de software Serratec<br>
-</h2>
+/h2>
 
 <!--ts-->
  <a href="http://www.allskyexossjam1.br-web.com/">
@@ -62,14 +62,12 @@ ao apresentar o resultado.</a>
    
 
 	<p>
-	
    <a href="http://serratec.org/">Serratec</a> 
-	<a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a>
-	<a href="https://github.com/Jrmaiworm">Jorge Alexandre Maiworm</a>
-	<a href="https://github.com/Befrosa">Bernardo Furtado da Rosa</a>
-	<a href="https://github.com/FELIPEMENEGUELI">Felipe Ferreira Menegueli</a>
+	<a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a><br><br>
+	<a href="https://github.com/Jrmaiworm">Jorge Alexandre Maiworm</a><br><br>
+	<a href="https://github.com/Befrosa">Bernardo Furtado da Rosa</a><br><br>
+	<a href="https://github.com/FELIPEMENEGUELI">Felipe Ferreira Menegueli</a><br><br>
 	<a href="https://github.com/dlmarinho">Daniel Marinho</a>
-	
 	</p>
 	
 <p align="center">
