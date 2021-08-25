@@ -63,15 +63,11 @@ ao apresentar o resultado.</a>
 
 	<p>
 	
-<a href="http://serratec.org/">Serratec</a> 
+   <a href="http://serratec.org/">Serratec</a> 
 	<a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a>
-	
 	<a href="https://github.com/Jrmaiworm">Jorge Alexandre Maiworm</a>
-	
 	<a href="https://github.com/Befrosa">Bernardo Furtado da Rosa</a>
-	
 	<a href="https://github.com/FELIPEMENEGUELI">Felipe Ferreira Menegueli</a>
-	
 	<a href="https://github.com/dlmarinho">Daniel Marinho</a>
 	
 	</p>
