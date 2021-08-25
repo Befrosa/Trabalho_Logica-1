@@ -61,7 +61,7 @@ matrizes de entrada e a matriz resultado, pode ser uma em baixo da outra. Identi
 ao apresentar o resultado.</a>
    
 <h2>
-<a href="http://serratec.org/">Serratec</a> 
+
 <a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a><br><br>
 <a href="https://github.com/Jrmaiworm">Jorge Alexandre Maiworm</a><br><br>
 <a href="https://github.com/Befrosa">Bernardo Furtado da Rosa</a><br><br>
