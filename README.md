@@ -60,15 +60,14 @@ usuário escolha os números de entrada de ambas as matrizes e apresente como re
 matrizes de entrada e a matriz resultado, pode ser uma em baixo da outra. Identifique cada matriz
 ao apresentar o resultado.</a>
    
-
-	<h3>
-   <a href="http://serratec.org/">Serratec</a> 
-	<a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a><br><br>
-	<a href="https://github.com/Jrmaiworm">Jorge Alexandre Maiworm</a><br><br>
-	<a href="https://github.com/Befrosa">Bernardo Furtado da Rosa</a><br><br>
-	<a href="https://github.com/FELIPEMENEGUELI">Felipe Ferreira Menegueli</a><br><br>
-	<a href="https://github.com/dlmarinho">Daniel Marinho</a>
-	</h3>
+<h2>
+<a href="http://serratec.org/">Serratec</a> 
+<a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a><br><br>
+<a href="https://github.com/Jrmaiworm">Jorge Alexandre Maiworm</a><br><br>
+<a href="https://github.com/Befrosa">Bernardo Furtado da Rosa</a><br><br>
+<a href="https://github.com/FELIPEMENEGUELI">Felipe Ferreira Menegueli</a><br><br>
+<a href="https://github.com/dlmarinho">Daniel Marinho</a>
+</h2>
 	
 <p align="center">
 	<h2 align="center"> Visite <h\2><br>
