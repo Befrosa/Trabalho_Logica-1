@@ -50,11 +50,11 @@ ao apresentar o resultado.](#testes)
 	
 	<a href="https://github.com/Jrmaiworm">Jorge Alexandre Maiworm</a>
 	
-	<a href="">Bernardo Furtado da Rosa</a>
+	<a href="https://github.com/Befrosa">Bernardo Furtado da Rosa</a>
 	
 	<a href="https://github.com/FELIPEMENEGUELI">Felipe Menegueli</a>
 	
-	<a href="https://github.com/YuriMCorrea">Daniel</a>
+	<a href="https://github.com/dlmarinho">Daniel</a>
 	<h2>
 <p align="center">
 	<h2 align="center"> Visite <h\2><br>
