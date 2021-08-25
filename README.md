@@ -73,8 +73,8 @@ ao apresentar o resultado.</a>
 	<h2 align="center"> Visite <h\2><br>
 
 <a href="http://serratec.org/">Serratec</a> 
-	
- Professor: Marcelo Collares
+<a href="https://github.com/mmcollares">Professor: Marcelo Collares</a>
+
 
 :fries:
 <!--te-->
