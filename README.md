@@ -2,8 +2,7 @@
 <h3>
 Trabalho de logica da programação, realizado durante a residencia de software Serratec<br>
 </h3>
-Tabela de conteúdos
-=================
+
 <!--ts-->
    <a href="http://www.allskyexossjam1.br-web.com/">* 1. Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO
 ou negativo, caso isso ocorra você deve informar ao usuário que o segundo número deve ser maior
@@ -66,7 +65,7 @@ ao apresentar o resultado.(#testes)
 	<h2>
 <p align="center">
 	<h2 align="center"> Visite <h\2><br>
- <a href="http://www.allskyexossjam1.br-web.com/">AllSky Exoss</a> <br>
+
 <a href="http://serratec.org/">Serratec</a> 
 
 <!--te-->
