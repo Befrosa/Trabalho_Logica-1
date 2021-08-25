@@ -74,14 +74,8 @@ ao apresentar o resultado.</a>
 
 <a href="http://serratec.org/">Serratec</a> 
 ```diff		
-<p>Professor:- Marcelo Collares</p>
+- Professor: Marcelo Collares
 ```
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```	
+
 <!--te-->
 
