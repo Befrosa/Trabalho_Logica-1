@@ -74,7 +74,7 @@ ao apresentar o resultado.</a>
 
 <a href="http://serratec.org/">Serratec</a> 
 	
-@octocat :+1: Professor: Marcelo Collares
+:@octocat :+1: Professor: Marcelo Collares
 
 
 <!--te-->
