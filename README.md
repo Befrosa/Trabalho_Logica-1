@@ -74,7 +74,7 @@ ao apresentar o resultado.</a>
 
 <a href="http://serratec.org/">Serratec</a> 
 	
- +1: Professor: Marcelo Collares
+ Professor: Marcelo Collares
 
 :fries:
 <!--te-->
