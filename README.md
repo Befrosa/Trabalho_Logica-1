@@ -15,10 +15,10 @@ um menu com as opções de operação. Após a escolha da operação deverá per
 dois valores e executar a conta. Deverá apresentar o resultado ao usuário e perguntar se ele deseja
 fazer novo cálculo ou se deseja encerrar o programa. Deverá permitir voltar ao menu caso a escolha
 seja fazer novo cálculo ou sair caso a escolha seja encerrar o programa.</a><br><br>
-   * [3. Escreva um programa que leia 10 nomes de alunos e duas notas de avaliações para cada aluno.
+  <a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_01.por"/> * 3. Escreva um programa que leia 10 nomes de alunos e duas notas de avaliações para cada aluno.
 Calcule e escreva a média de cada aluno, seguido da informação se foi aprovado ou reprovado.
 Considere como média para aprovação 6. Dica: Utilize quantos vetores precisar. Ex. Saída: Fulano
-de tal P1= 8.0, P2=6.0, Media=7.0, aprovado!](#instalacao)<br><br>
+de tal P1= 8.0, P2=6.0, Media=7.0, aprovado!](#instalacao)</a><br><br>
    * [4. Faça um programa que mostre um menu contendo 2 opções: 1. Fibonacci 2. Fatorial. Ao escolher o
 numero 1 solicite que o usuário escolha a quantidade de números da série de Fibonacci ele quer
 imprimir e execute a função recursivamente. Ao escolher a opção 2 solicite ao usuário que escolha
