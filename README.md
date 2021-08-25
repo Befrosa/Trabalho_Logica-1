@@ -61,7 +61,7 @@ matrizes de entrada e a matriz resultado, pode ser uma em baixo da outra. Identi
 ao apresentar o resultado.</a>
    
 
-	<h3>
+	<h3
 	
 	<a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a>
 	
@@ -72,7 +72,9 @@ ao apresentar o resultado.</a>
 	<a href="https://github.com/FELIPEMENEGUELI">Felipe Ferreira Menegueli</a>
 	
 	<a href="https://github.com/dlmarinho">Daniel Marinho</a>
-	<h/3>
+	
+	
+	h/3>
 <p align="center">
 	<h2 align="center"> Visite <h\2><br>
 
