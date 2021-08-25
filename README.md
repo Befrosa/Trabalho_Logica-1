@@ -1,7 +1,7 @@
 <h1 align="center">Trabalho de lógica de programação</h1>
 <h2>
 Trabalho de logica da programação, realizado durante a residencia de software Serratec<br>
-</h2>
+</h2 >
 
 <!--ts-->
  <a href="http://www.allskyexossjam1.br-web.com/">
