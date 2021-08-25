@@ -44,10 +44,17 @@ matrizes de entrada e a matriz resultado, pode ser uma em baixo da outra. Identi
 ao apresentar o resultado.](#testes)
    
 
-<p>
+	<h2>
 	<a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a>
 	
-	<\p>
+	<a href="https://github.com/Jrmaiworm">Jorge Alexandre Maiworm</a>
+	
+	<a href="">Bernardo Furtado da Rosa</a>
+	
+	<a href="https://github.com/FELIPEMENEGUELI">Felipe Menegueli</a>
+	
+	<a href="https://github.com/YuriMCorrea">Daniel</a>
+	<h2>
 <p align="center">
 	<h2 align="center"> Visite <h\2><br>
  <a href="http://www.allskyexossjam1.br-web.com/">AllSky Exoss</a> <br>
