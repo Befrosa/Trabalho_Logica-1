@@ -1,6 +1,6 @@
 <h1 align="center">Trabalho de lógica de programação</h1>
 <h2>
-Trabalho de logica da programação, realizado durante a residencia de software Serratec<br>
+Trabalho de lógica da programação, realizado durante o curso de residência de software Serratec<br>
 </h2 >
 
 <!--ts-->
@@ -73,9 +73,9 @@ ao apresentar o resultado.</a>
 	<h2 align="center"> Visite <h\2><br>
 
 <a href="http://serratec.org/">Serratec</a> 
-```diff		
-- Professor: Marcelo Collares
-```
+	
+@octocat :+1: Professor: Marcelo Collares
+
 
 <!--te-->
 
