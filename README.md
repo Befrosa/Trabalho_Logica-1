@@ -72,7 +72,7 @@ ao apresentar o resultado.</a>
 <p align="center">
 	<h2 align="center"> Visite <h\2><br>
 
-<a href="http://serratec.org/">Serratec</a> 
+<a href="http://serratec.org/">Serratec</a> <br><br>
 <a href="https://github.com/mmcollares">Professor: Marcelo Collares</a>
 
 
