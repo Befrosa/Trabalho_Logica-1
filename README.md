@@ -1,7 +1,7 @@
 <h1 align="center">Trabalho de lógica de programação</h1>
-<h3>
+<h2>
 Trabalho de logica da programação, realizado durante a residencia de software Serratec<br>
-</h3>
+</h2>
 
 <!--ts-->
  <a href="http://www.allskyexossjam1.br-web.com/">
@@ -61,7 +61,7 @@ matrizes de entrada e a matriz resultado, pode ser uma em baixo da outra. Identi
 ao apresentar o resultado.</a>
    
 
-	
+	<h3>
 	
 	<a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a>
 	
@@ -72,7 +72,7 @@ ao apresentar o resultado.</a>
 	<a href="https://github.com/FELIPEMENEGUELI">Felipe Ferreira Menegueli</a>
 	
 	<a href="https://github.com/dlmarinho">Daniel Marinho</a>
-	
+	<h/3>
 <p align="center">
 	<h2 align="center"> Visite <h\2><br>
 
