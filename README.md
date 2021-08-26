@@ -98,14 +98,14 @@ ao apresentar o resultado.
 </details> 
 	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 	
-<h2>
+<h2><Strong>Grupo:</h2>
 
 <a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a><br><br>
 <a href="https://github.com/Jrmaiworm">Jorge Alexandre Maiworm</a><br><br>
 <a href="https://github.com/Befrosa">Bernardo Furtado da Rosa</a><br><br>
 <a href="https://github.com/FELIPEMENEGUELI">Felipe Ferreira Menegueli</a><br><br>
 <a href="https://github.com/dlmarinho">Daniel Marinho</a>
-</h2>
+
 	
 <p align="center">
 	<h2 align="center"> Visite <h\2><br>
