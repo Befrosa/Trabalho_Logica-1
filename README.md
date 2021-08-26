@@ -10,8 +10,6 @@ Trabalho de lógica da programação, realizado durante o curso de residência d
 </h2 >
 <!--ts-->
 	
-[Clique Aqui](https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_02.por)
-	
 <details>
 	<summary> <strong> Número 1</strong> </summary>
 Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO
@@ -19,7 +17,7 @@ ou negativo, caso isso ocorra você deve informar ao usuário que o segundo núm
 do que ZERO e solicitar um novo valor. Deverá imprimir o resultado. Ao final deve perguntar se
 deseja calcular outra divisão e caso sua resposta seja positiva limpe a tela e solicite novos valores.	
 </details>
-<p><a><img height="20px" src="assets/file.png" alt="logo file"/>Código</a><p>
+<p><a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="10px" src="assets/file.png" alt="logo file"/>Código</a><p>
 
 	
 <details>
