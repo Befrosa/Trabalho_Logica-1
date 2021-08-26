@@ -18,7 +18,8 @@ Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor 
 ou negativo, caso isso ocorra você deve informar ao usuário que o segundo número deve ser maior
 do que ZERO e solicitar um novo valor. Deverá imprimir o resultado. Ao final deve perguntar se
 deseja calcular outra divisão e caso sua resposta seja positiva limpe a tela e solicite novos valores.	
-</details> 
+</details>
+<a><img height="40px" src="assets/file.png" alt="logo file"/>Código</a>
 
 	
 <details>
@@ -88,7 +89,7 @@ usuário escolha os números de entrada de ambas as matrizes e apresente como re
 matrizes de entrada e a matriz resultado, pode ser uma em baixo da outra. Identifique cada matriz
 ao apresentar o resultado.
 </details> 
-	<img height="40px" src="assets/file.png" alt="logo file"/>
+	
 <h2>
 
 <a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a><br><br>
