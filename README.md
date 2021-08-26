@@ -70,6 +70,7 @@ Elabora um programa que solicita ao usuário a quantidade de números primos que
 seja impresso. Após imprima na tela a quantidade de números primos escolhida. Ex. Entrada 4
 Saída 1 2 3 5](#remote-files)
 </details> 
+	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Número 8</strong> </summary>
