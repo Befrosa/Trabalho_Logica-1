@@ -111,14 +111,14 @@ ao apresentar o resultado.
 	
 	
 
-<strong>Professor:</strong><a href="https://github.com/mmcollares"> Marcelo Collares</a> 
-<p align="center/p>Visite<br>a href="http://serratec.org/">Serratec</a> <br><br>
+
+<p align="center">Visite
+
+	  <a href="http://serratec.org/">Serratec</a> <br><br>
 	  
 
-
-
 </p>
-
+<strong>Professor:</strong><a href="https://github.com/mmcollares"> Marcelo Collares</a> 
 
 
 <!--te-->
