@@ -12,8 +12,7 @@ Trabalho de lógica da programação, realizado durante o curso de residência d
 	
 
 <details>
-	<summary> <strong> Número 1</strong> 
-	[Clique Aqui](https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_02.por)</summary>
+	<summary> <strong> Número 1</strong> </summary>
 Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO
 ou negativo, caso isso ocorra você deve informar ao usuário que o segundo número deve ser maior
 do que ZERO e solicitar um novo valor. Deverá imprimir o resultado. Ao final deve perguntar se
