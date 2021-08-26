@@ -105,11 +105,11 @@ ao apresentar o resultado.
 • <a href="https://github.com/Befrosa"> Bernardo Furtado da Rosa</a><br>
 • <a href="https://github.com/FELIPEMENEGUELI"> Felipe Ferreira Menegueli</a><br>  
 • <a href="https://github.com/dlmarinho"> Daniel Marinho</a><br><br>
-
+<h2>
 :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries:	
 	
 <p align="center">
-	<h2 align="center"> Visite <h\2><br>
+	<h2 align="center"> Visite<br>
 
 <a href="http://serratec.org/">Serratec</a> <br><br>
 <strong>Professor:</strong><a href="https://github.com/mmcollares"> Marcelo Collares</a>
