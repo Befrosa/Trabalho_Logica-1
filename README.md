@@ -98,7 +98,7 @@ ao apresentar o resultado.
 </details> 
 	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 	
-<h2><Strong>Grupo 7</h2>
+<h2><Strong>Grupo 7</h2>:fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries:
 <p align "center">
 • <a href="https://github.com/YuriMCorrea"> Yuri Medrado Corrêa</a><br>  
 • <a href="https://github.com/Jrmaiworm"> Jorge Alexandre Maiworm</a><br>
