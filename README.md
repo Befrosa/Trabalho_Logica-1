@@ -47,7 +47,7 @@ numero 1 solicite que o usuário escolha a quantidade de números da série de F
 imprimir e execute a função recursivamente. Ao escolher a opção 2 solicite ao usuário que escolha
 o número que deseja para o cálculo do Fatorial e execute a função recursivamente..
 </details> 
-	<a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_04.porr"><img height="25px" src="assets/file.png" alt="logo file"/></a>
+	<a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_04.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong>Questão nº5 </strong> </summary>
