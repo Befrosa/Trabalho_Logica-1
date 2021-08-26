@@ -10,7 +10,7 @@ Trabalho de lógica da programação, realizado durante o curso de residência d
 </h2 >
 <!--ts-->
 	
-
+[Clique Aqui](https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_02.por)
 <details>
 	<summary> <strong> Número 1</strong> </summary>
 Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO
