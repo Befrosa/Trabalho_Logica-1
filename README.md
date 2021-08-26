@@ -105,15 +105,9 @@ ao apresentar o resultado.
 :fries:• <a href="https://github.com/FELIPEMENEGUELI"> Felipe Ferreira Menegueli</a><br> 
 :fries:• <a href="https://github.com/Jrmaiworm"> Jorge Alexandre Maiworm</a><br>
 :fries:• <a href="https://github.com/YuriMCorrea"> Yuri Medrado Corrêa</a><br>
-  
-
 <h2 align="center">
-	
-	
-
-
 <p align="center">Visite</p>
-<a href="http://serratec.org/">Serratec</a> <br>
+<a href="http://serratec.org/">Serratec</a> <br><br>
 	  
 
 
