@@ -8,6 +8,7 @@
 <h2>
 Trabalho de lógica da programação, realizado durante o curso de residência de software Serratec<br>
 </h2 >
+<!--ts-->
 
 <details>
 <summary> Número 1</summary>
