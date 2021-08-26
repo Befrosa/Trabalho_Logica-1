@@ -17,7 +17,7 @@ ou negativo, caso isso ocorra você deve informar ao usuário que o segundo núm
 do que ZERO e solicitar um novo valor. Deverá imprimir o resultado. Ao final deve perguntar se
 deseja calcular outra divisão e caso sua resposta seja positiva limpe a tela e solicite novos valores.	
 </details>
-<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
+<a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 
 	
@@ -29,7 +29,7 @@ dois valores e executar a conta. Deverá apresentar o resultado ao usuário e pe
 fazer novo cálculo ou se deseja encerrar o programa. Deverá permitir voltar ao menu caso a escolha
 seja fazer novo cálculo ou sair caso a escolha seja encerrar o programa.
 </details> 
-	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
+	<a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_02.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong>Questão nº3</strong> </summary>
@@ -38,7 +38,7 @@ Calcule e escreva a média de cada aluno, seguido da informação se foi aprovad
 Considere como média para aprovação 6. Dica: Utilize quantos vetores precisar. Ex. Saída: Fulano
 de tal P1= 8.0, P2=6.0, Media=7.0, aprovado!](#instalacao)
 </details> 
-	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
+	<a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_03.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Questão nº4</strong> </summary>
@@ -47,14 +47,14 @@ numero 1 solicite que o usuário escolha a quantidade de números da série de F
 imprimir e execute a função recursivamente. Ao escolher a opção 2 solicite ao usuário que escolha
 o número que deseja para o cálculo do Fatorial e execute a função recursivamente..
 </details> 
-	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
+	<a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_04.porr"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong>Questão nº5 </strong> </summary>
 Desenvolva um programa no qual o usuário informa 10 números e programa responde qual é o
 menor, o maior e a média dos valores.
 </details> 
-	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
+	<a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_05.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Questão nº6</strong> </summary>
@@ -62,7 +62,7 @@ Elabore um programa em que o usuário informa dois números (n1 e n2). O primeir
 indica o início do laço de repetição e o segundo número (n2) o fim do laço de repetição. O
 programa deverá imprimir a soma de todos os números pares no intervalo entre n1 e n2.
 </details> 
-	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
+	<a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_06.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong>Questão nº7 </strong> </summary>
@@ -70,7 +70,7 @@ Elabora um programa que solicita ao usuário a quantidade de números primos que
 seja impresso. Após imprima na tela a quantidade de números primos escolhida. Ex. Entrada 4
 Saída 1 2 3 5](#remote-files)
 </details> 
-	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
+	<a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_07.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Questão nº8</strong> </summary>
@@ -78,7 +78,7 @@ Elabora um programa que peça ao usuário que entre com 10 números. Após solic
 escolha se quer que sejam impressos os números em ordem crescente ou decrescente e conforme
 a escolha do usuário e faça a impressão da série.](#multiple-files)
 </details> 
-	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
+	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_08.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Questão nº9</strong> </summary>
@@ -87,7 +87,7 @@ variáveis a, b, c e calcule as raízes. Apresente no final do cálculo a equaç
 variáveis lidas e o resultado. Ex. Entrada a=1, b=-5, c=6. Saída 1x
 2- 5x – 6 =0 -> X1=3 X2=2
 </details> 
-	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
+	<a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_09.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Questão nº10</strong> </summary>
@@ -96,7 +96,7 @@ usuário escolha os números de entrada de ambas as matrizes e apresente como re
 matrizes de entrada e a matriz resultado, pode ser uma em baixo da outra. Identifique cada matriz
 ao apresentar o resultado.
 </details> 
-	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
+	<a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_10.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 	
 <h2><Strong>Grupo 7</h2>
 <p align "center"> 
