@@ -106,7 +106,7 @@ ao apresentar o resultado.
 • <a href="https://github.com/FELIPEMENEGUELI"> Felipe Ferreira Menegueli</a><br>  
 • <a href="https://github.com/dlmarinho"> Daniel Marinho</a><br><br>
 <h2 align="center">
-:fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries:	
+	
 	
 <p align="center">
 	 Visite<br>
