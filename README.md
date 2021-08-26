@@ -100,11 +100,13 @@ ao apresentar o resultado.
 	
 <h2><Strong>Grupo 7</h2>
 <p align "center"> 
-:fries:• <a href="https://github.com/YuriMCorrea"> Yuri Medrado Corrêa</a><br>  
-:fries:• <a href="https://github.com/Jrmaiworm"> Jorge Alexandre Maiworm</a><br>
 :fries:• <a href="https://github.com/Befrosa"> Bernardo Furtado da Rosa</a><br>
-:fries:• <a href="https://github.com/FELIPEMENEGUELI"> Felipe Ferreira Menegueli</a><br>  
 :fries:• <a href="https://github.com/dlmarinho"> Daniel Marinho</a><br><br>
+:fries:• <a href="https://github.com/FELIPEMENEGUELI"> Felipe Ferreira Menegueli</a><br> 
+:fries:• <a href="https://github.com/Jrmaiworm"> Jorge Alexandre Maiworm</a><br>
+:fries:• <a href="https://github.com/YuriMCorrea"> Yuri Medrado Corrêa</a><br>
+  
+
 <h2 align="center">
 	
 	
