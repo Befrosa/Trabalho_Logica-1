@@ -11,12 +11,13 @@ Trabalho de lógica da programação, realizado durante o curso de residência d
 <!--ts-->
 	
 <details>
-	<summary> <strong> Número 1 [<img height="20px" src="assets/file.png" alt="logo file"/>](https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por")</strong> </summary>
+	<summary> <strong> Número 1</strong> </summary>
 Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO
 ou negativo, caso isso ocorra você deve informar ao usuário que o segundo número deve ser maior
 do que ZERO e solicitar um novo valor. Deverá imprimir o resultado. Ao final deve perguntar se
 deseja calcular outra divisão e caso sua resposta seja positiva limpe a tela e solicite novos valores.	
 </details>
+[<img height="20px" src="assets/file.png" alt="logo file"/>](https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por")
 
 
 	
