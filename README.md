@@ -29,6 +29,7 @@ dois valores e executar a conta. Deverá apresentar o resultado ao usuário e pe
 fazer novo cálculo ou se deseja encerrar o programa. Deverá permitir voltar ao menu caso a escolha
 seja fazer novo cálculo ou sair caso a escolha seja encerrar o programa.
 </details> 
+	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Número 3</strong> </summary>
@@ -37,6 +38,7 @@ Calcule e escreva a média de cada aluno, seguido da informação se foi aprovad
 Considere como média para aprovação 6. Dica: Utilize quantos vetores precisar. Ex. Saída: Fulano
 de tal P1= 8.0, P2=6.0, Media=7.0, aprovado!](#instalacao)
 </details> 
+	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Número 4</strong> </summary>
@@ -45,12 +47,14 @@ numero 1 solicite que o usuário escolha a quantidade de números da série de F
 imprimir e execute a função recursivamente. Ao escolher a opção 2 solicite ao usuário que escolha
 o número que deseja para o cálculo do Fatorial e execute a função recursivamente..
 </details> 
+	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Número 5</strong> </summary>
 Desenvolva um programa no qual o usuário informa 10 números e programa responde qual é o
 menor, o maior e a média dos valores.
 </details> 
+	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Número 6</strong> </summary>
@@ -58,6 +62,7 @@ Elabore um programa em que o usuário informa dois números (n1 e n2). O primeir
 indica o início do laço de repetição e o segundo número (n2) o fim do laço de repetição. O
 programa deverá imprimir a soma de todos os números pares no intervalo entre n1 e n2.
 </details> 
+	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Número 7</strong> </summary>
@@ -72,6 +77,7 @@ Elabora um programa que peça ao usuário que entre com 10 números. Após solic
 escolha se quer que sejam impressos os números em ordem crescente ou decrescente e conforme
 a escolha do usuário e faça a impressão da série.](#multiple-files)
 </details> 
+	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Número 9</strong> </summary>
@@ -80,6 +86,7 @@ variáveis a, b, c e calcule as raízes. Apresente no final do cálculo a equaç
 variáveis lidas e o resultado. Ex. Entrada a=1, b=-5, c=6. Saída 1x
 2- 5x – 6 =0 -> X1=3 X2=2
 </details> 
+	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 
 <details>
 	<summary> <strong> Número 10</strong> </summary>
@@ -88,6 +95,7 @@ usuário escolha os números de entrada de ambas as matrizes e apresente como re
 matrizes de entrada e a matriz resultado, pode ser uma em baixo da outra. Identifique cada matriz
 ao apresentar o resultado.
 </details> 
+	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 	
 <h2>
 
