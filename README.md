@@ -113,7 +113,7 @@ ao apresentar o resultado.
 
 
 <p align="center">Visite</p>
-<a href="http://serratec.org/">Serratec</a> <br><br>
+<a href="http://serratec.org/">Serratec</a> <br>
 	  
 
 
