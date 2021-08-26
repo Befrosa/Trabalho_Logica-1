@@ -9,7 +9,7 @@
 Trabalho de lógica da programação, realizado durante o curso de residência de software Serratec<br>
 </h2 >
 <!--ts-->
-<h3>•<strong>Sumário</strong> (Click abaixo para expandir)</h3>	
+<h3>:fries:•<strong>Sumário</strong> (Click abaixo para expandir)</h3>	
 <details>
 	<summary> <strong> Questão nº1 </strong> </summary>
 Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO
