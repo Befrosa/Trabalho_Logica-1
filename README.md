@@ -17,8 +17,9 @@ Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor 
 ou negativo, caso isso ocorra você deve informar ao usuário que o segundo número deve ser maior
 do que ZERO e solicitar um novo valor. Deverá imprimir o resultado. Ao final deve perguntar se
 deseja calcular outra divisão e caso sua resposta seja positiva limpe a tela e solicite novos valores.	
+<a src="Trabalho_Logica/GRUPO_7__Ex_01.por">Clique Aqui</a>
 </details> 
-<a src="Trabalho_Logica/GRUPO_7__Ex_01.por"></a>
+
 	
  <a href="http://www.allskyexossjam1.br-web.com/">
 	1. Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO
