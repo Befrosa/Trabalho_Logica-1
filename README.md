@@ -116,6 +116,6 @@ ao apresentar o resultado.
 </p>
 
 
-:fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries:
+
 <!--te-->
 
