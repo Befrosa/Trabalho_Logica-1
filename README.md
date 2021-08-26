@@ -7,6 +7,7 @@
 
 <details>
 <summary> Spoiler warning</summary>
+	aaaaaa
 </details>
 <h2>
 Trabalho de lógica da programação, realizado durante o curso de residência de software Serratec<br>
