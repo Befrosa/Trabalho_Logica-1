@@ -112,8 +112,9 @@ ao apresentar o resultado.
 
 <a href="http://serratec.org/">Serratec</a> <br><br>
 <strong>Professor:</strong><a href="https://github.com/mmcollares"> Marcelo Collares</a>
+</p>
 
 
-:fries:
+:fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries:
 <!--te-->
 
