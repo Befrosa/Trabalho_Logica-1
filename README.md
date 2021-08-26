@@ -10,13 +10,12 @@ Trabalho de lógica da programação, realizado durante o curso de residência d
 </h2 >
 
 <details>
-  
-	Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO
+<summary> Número 1</summary>
+Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO
 ou negativo, caso isso ocorra você deve informar ao usuário que o segundo número deve ser maior
 do que ZERO e solicitar um novo valor. Deverá imprimir o resultado. Ao final deve perguntar se
 deseja calcular outra divisão e caso sua resposta seja positiva limpe a tela e solicite novos valores.
-<a href="http://www.allskyexossjam1.br-web.com/">Clique Aqui</a>
-	
+<a href="http://www.allskyexossjam1.br-web.com/">Clique Aqui</a>	
 </details>
  <a href="http://www.allskyexossjam1.br-web.com/">
 	1. Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO
