@@ -104,8 +104,9 @@ ao apresentar o resultado.
 • <a href="https://github.com/Jrmaiworm"> Jorge Alexandre Maiworm</a><br>
 • <a href="https://github.com/Befrosa"> Bernardo Furtado da Rosa</a><br>
 • <a href="https://github.com/FELIPEMENEGUELI"> Felipe Ferreira Menegueli</a><br>  
-• <a href="https://github.com/dlmarinho"> Daniel Marinho</a><br>
+• <a href="https://github.com/dlmarinho"> Daniel Marinho</a><br><br>
 
+:fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries: :fries:	
 	
 <p align="center">
 	<h2 align="center"> Visite <h\2><br>
