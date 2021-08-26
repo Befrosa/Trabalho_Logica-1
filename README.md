@@ -6,7 +6,7 @@
 </p>
 
 <details>
-<summary>Spoiler warning</summary>
+<summary> Spoiler warning</summary>
 </details>
 <h2>
 Trabalho de lógica da programação, realizado durante o curso de residência de software Serratec<br>
