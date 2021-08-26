@@ -107,7 +107,7 @@ ao apresentar o resultado.
 :fries:• <a href="https://github.com/YuriMCorrea"> Yuri Medrado Corrêa</a><br>
 <h2 align="center">
 <p align="center">Visite</p>
-<a href="http://serratec.org/">Serratec</a> <br><br>
+<a href="http://serratec.org/">Serratec.org</a> <br><br>
 	  
 
 
