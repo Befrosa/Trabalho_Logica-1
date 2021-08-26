@@ -112,12 +112,11 @@ ao apresentar o resultado.
 	
 
 
-<p align="center">Visite
-
-	  <a href="http://serratec.org/">Serratec</a> <br><br>
+<p align="center">Visite</p>
+<a href="http://serratec.org/">Serratec</a> <br><br>
 	  
 
-</p>
+
 <strong>Professor:</strong><a href="https://github.com/mmcollares"> Marcelo Collares</a> 
 
 
