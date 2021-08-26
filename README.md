@@ -98,13 +98,13 @@ ao apresentar o resultado.
 </details> 
 	<a href="https://github.com/Jrmaiworm/Trabalho_Logica/blob/main/GRUPO_7__Ex_01.por"><img height="25px" src="assets/file.png" alt="logo file"/></a>
 	
-<h2><Strong>Grupo:</h2>
-
-<a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a> -
-<a href="https://github.com/Jrmaiworm">Jorge Alexandre Maiworm</a> -
-<a href="https://github.com/Befrosa">Bernardo Furtado da Rosa</a> -
-<a href="https://github.com/FELIPEMENEGUELI">Felipe Ferreira Menegueli</a> -
-<a href="https://github.com/dlmarinho">Daniel Marinho</a>
+<h2><Strong>Grupo 7</h2>
+<p>
+<a href="https://github.com/YuriMCorrea">Yuri Medrado Corrêa</a>  -  
+<a href="https://github.com/Jrmaiworm">Jorge Alexandre Maiworm</a>  -  
+<a href="https://github.com/Befrosa">Bernardo Furtado da Rosa</a>  -  
+<a href="https://github.com/FELIPEMENEGUELI">Felipe Ferreira Menegueli</a>  -  
+<a href="https://github.com/dlmarinho">Daniel Marinho</a></p>
 
 	
 <p align="center">
