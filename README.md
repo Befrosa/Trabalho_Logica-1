@@ -18,7 +18,7 @@ ou negativo, caso isso ocorra você deve informar ao usuário que o segundo núm
 do que ZERO e solicitar um novo valor. Deverá imprimir o resultado. Ao final deve perguntar se
 deseja calcular outra divisão e caso sua resposta seja positiva limpe a tela e solicite novos valores.	
 </details> 
-	<a href="https://github.com/YuriMCorrea/LogicaDeProgramacao/blob/main/GRUPO_7__Ex_02.por/"></a>
+<a src="Trabalho_Logica/GRUPO_7__Ex_01.por/"></a>
 	
  <a href="http://www.allskyexossjam1.br-web.com/">
 	1. Leia dois valores e efetue a divisão do primeiro pelo segundo. O segundo valor não pode ser ZERO
