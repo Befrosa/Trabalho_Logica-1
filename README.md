@@ -1,4 +1,10 @@
 <h1 align="center">Trabalho de lógica de programação</h1>
+
+<a name="back-to-top">
+<p align="center">
+  <img height="80px" src="assets/logoSerratec.png" alt="logo serratec"/>
+</p>
+
 <h2>
 Trabalho de lógica da programação, realizado durante o curso de residência de software Serratec<br>
 </h2 >
